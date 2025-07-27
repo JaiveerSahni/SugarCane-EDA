@@ -71,6 +71,12 @@ All generated visualizations are stored in the `images/` folder.
 3. Run all cells to see the outputs  
 4. Optional: Save visuals using `plt.savefig('images/plot_name.png')`
 
+## 🙋‍♂️ Author
+
+- **Jaiveer Singh Sahni**  
+  Passionate about data analysis, visualization, and telling stories with data.  
+  
+
 ---
 
 
