@@ -46,7 +46,7 @@ The dataset used contains information about:
 The analysis includes:
 - Bar plots for top producing countries
 - Correlation heatmap
-- 
+- Pie Charts for Continent Wise Production 
 - **Scatter Plot** for comparing yield vs land vs production
 - Distribution of yield and land area
 
